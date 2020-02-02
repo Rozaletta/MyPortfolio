@@ -1,20 +1,30 @@
 body {
   margin: 0;
   min-width: 960px;
-  font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
-  font-size: 16px;
-  line-height: 32px;
-  color: #54212b;
-  background-color: #f2f4f6;
-  background-image: url("img/hero-bg8.jpg");
+  font-family: "Josefin Sans", "Times", sans-serif;
+  font-size: 20px;
+  line-height: 26px;
+  color: #FFE4E1;
+  background-color: #0f1117;
+  background-image: url("img/86.jpg");
   background-repeat: no-repeat;
   background-position: top center;
+}
+
+h3 {
+  font-size: 20px;
 }
 
 .container {
   max-width: 928px;
   margin: 0 auto;
   padding: 0 16px;
+}
+
+.copyright {
+  font-family: "Times";
+  text-align: center;
+  font-size: 18px;
 }
 
 .page-header {
@@ -61,7 +71,7 @@ body {
   font-size: 88px;
   line-height: 96px;
   font-weight: 400;
-  color: #7f3c49;
+  color: #FFE4E1;;
 }
 
 .hero-image p {
@@ -76,7 +86,7 @@ body {
 
 .subheading {
   margin: 0 0 56px;
-  font-family: "Old Standard TT", "Times", "Times New Roman", serif;
+  font-family: "Times", serif;
   font-size: 64px;
   line-height: 80px;
   font-weight: 400;
@@ -166,14 +176,15 @@ body {
   text-decoration: none;
   text-transform: uppercase;
   border-radius: 4px;
-  background-color: #288be6;
-  color: #ffffff;
+  background-color: #7f3c49;
+  color: #FFE4E1;
 }
 
 .page-footer {
-  padding: 40px 0;
+  padding: 50px 0;
   background-color: #7f3c49;
   color: #ffffff;
+  /*background-image: url("img/hero-mm9.jpg");*/
 }
 
 .page-footer a {
