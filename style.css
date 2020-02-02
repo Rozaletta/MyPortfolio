@@ -4,9 +4,9 @@ body {
   font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
   font-size: 16px;
   line-height: 32px;
-  color: #222222;
+  color: #54212b;
   background-color: #f2f4f6;
-  background-image: url("img/hero-bg.jpg");
+  background-image: url("img/hero-bg8.jpg");
   background-repeat: no-repeat;
   background-position: top center;
 }
@@ -30,7 +30,7 @@ body {
 
 .page-header a {
   margin-left: 56px;
-  color: #288be6;
+  color: #ffffff;
   text-decoration: none;
   background-repeat: no-repeat;
   background-position: left;
@@ -38,7 +38,7 @@ body {
 
 .header-email {
   padding-left: 30px;
-  background-image: url("img/icon-email-header.svg");
+  background-image: url("img/icon-email-footer.svg");
 }
 
 .header-phone {
@@ -61,6 +61,7 @@ body {
   font-size: 88px;
   line-height: 96px;
   font-weight: 400;
+  color: #7f3c49;
 }
 
 .hero-image p {
@@ -171,7 +172,7 @@ body {
 
 .page-footer {
   padding: 40px 0;
-  background-color: #00417d;
+  background-color: #7f3c49;
   color: #ffffff;
 }
 
